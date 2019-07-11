@@ -67,7 +67,7 @@ class ViewController: UIViewController {
 //                    self.directionLabel.text = "heading to WEST"
 //                } else{
 //                    self.directionLabel.text = "Where am I ?"
-//                }
+//                }3q
                 
                 
                 //In the magnetometer code, you would use a distance heuristic to sense a large change in the magnetic field.
